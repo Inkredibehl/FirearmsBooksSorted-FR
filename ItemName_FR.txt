@@ -1,0 +1,15 @@
+ItemName_FR = {
+
+	ItemName_FireBook.Firearm1 = "Visée Vol.1 : Débutant",
+	ItemName_FireBook.Firearm2 = "Visée Vol.2 : Intermédiaire",
+	ItemName_FireBook.Firearm3 = "Visée Vol.3 : Avancé",
+	ItemName_FireBook.Firearm4 = "Visée Vol.4 : Expert",
+	ItemName_FireBook.Firearm5 = "Visée Vol.5 : Maître",
+
+	ItemName_FireBook.Reloading1 = "Rechargement Vol.1 : Débutant",
+	ItemName_FireBook.Reloading2 = "Rechargement Vol.2 : Intermédiaire",
+	ItemName_FireBook.Reloading3 = "Rechargement Vol.3 : Avancé",
+	ItemName_FireBook.Reloading4 = "Rechargement Vol.4 : Expert",
+	ItemName_FireBook.Reloading5 = "Rechargement Vol.5 : Maître",
+
+}
